@@ -1,7 +1,2 @@
-#include <stdio.h>
-
-
-int main(void)
-{
-	return 0;
-}
+Git is a distributed version control system.
+Git is free software.
